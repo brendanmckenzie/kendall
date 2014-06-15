@@ -1,0 +1,4 @@
+virtual_transport = kendall:
+virtual_mailbox_domains = pgsql:/etc/postfix/pgsql/virtual_mailbox_domains.cf
+virtual_mailbox_maps = pgsql:/etc/postfix/pgsql/virtual_mailbox_maps.cf
+virtual_alias_maps = pgsql:/etc/postfix/pgsql/virtual_alias_maps.cf

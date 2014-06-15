@@ -1,0 +1,5 @@
+user = kendall
+password = $kendall123
+dbname = mail
+query = select (a.name || '@' || d.name) from alias a inner join member m on (a.member_id = m.id) inner join domain d on (a.domain_id = d.id) where (a.name || '@' || d.name) = '%s';
+hosts = 127.0.0.1

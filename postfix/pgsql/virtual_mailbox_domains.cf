@@ -1,0 +1,5 @@
+user = kendall
+password = $kendall123
+dbname = mail
+query = select 1 from domain where name = '%s';
+hosts = 127.0.0.1
