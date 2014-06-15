@@ -12,3 +12,5 @@ What needs to be done:
  * Sending emails from aliases
  * Folder structures
  * IMAP server with push for delivery
+
+So it's been brought to my attention that Google Apps for Business allows this precise functionality (https://support.google.com/a/answer/182452?hl=en) - however it's still $5/month per user.
